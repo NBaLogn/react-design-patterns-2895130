@@ -11,7 +11,6 @@ const getServerData = url => async () => {
 	return response.data;
 };
 
-// const getLocalStorageData = key => () => {
 const getLocalStorageData = key => () => {
 	return localStorage.getItem(key);
 };
