@@ -15,6 +15,6 @@ export const withUser = (Component, userId) => {
 				{...props}
 				user={user}
 			/>
-		); 
+		);
 	};
 };
