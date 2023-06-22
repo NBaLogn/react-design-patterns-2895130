@@ -25,7 +25,7 @@ let users = [{
 	hairColor: 'black',
 	hobbies: ['golf', 'mathematics'],
 }, {
-	id: '345'
+	id: '345',
 	name: 'Jane Garcia',
 	age: 27,
 	hairColor: 'blonde',
